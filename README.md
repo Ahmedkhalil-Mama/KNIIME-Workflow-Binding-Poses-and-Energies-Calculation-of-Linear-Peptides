@@ -23,3 +23,10 @@ This KNIME workflow streamlines the docking of linear peptides ([not exeeding 50
 
 > [!IMPORTANT]
 > A valid **Schrodinger license** is required to run this workflow. The license must include the following modules: Canvas, ConfGen, Core Hopping, Epik, Glide, Impact, Jaguar, Jaguar pKa, LigPrep, MacroModel, P450 SOM Prediction, Prime, PrimeX, QikProp, QSite, and SiteMap. Additionally, the Maestro, KNIME, and OPLS access licenses are also required.
+
+# Installation
+[Go to the top](#Table-of-contents)
+
+In order to run this KNIME workflow the following software are needed:
+- [Schrodinger 2023-3 or newer version]
+- [KNIME 4.7.1 or newer version]
