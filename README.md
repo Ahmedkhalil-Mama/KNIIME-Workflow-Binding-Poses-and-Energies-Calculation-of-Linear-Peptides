@@ -28,5 +28,8 @@ This KNIME workflow streamlines the docking of linear peptides ([not exeeding 50
 [Go to the top](#Table-of-contents)
 
 In order to run this KNIME workflow the following software are needed:
-- Schrodinger 2023-3 or newer version
-- KNIME 4.7.1 or newer version
+- Schrodinger 2023-2 (or newer version)
+- KNIME 4.7.1 (or newer version)
+
+> [!WARNING]
+> > To reproduce the results exactly as stated in [Ballweg et al.](https://www.sciencedirect.com/science/article/pii/S0021967324004631), the same versions of KNIME and Schrödinger must be used.
