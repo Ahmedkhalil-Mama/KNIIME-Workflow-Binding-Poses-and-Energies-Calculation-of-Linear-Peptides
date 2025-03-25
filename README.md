@@ -18,6 +18,7 @@
 
 # Aims
 [Go to the top](#Table-of-contents)
+
 This KNIME workflow streamlines the docking of linear peptides (not exeeding 500 atoms and/or 100 rotatables bonds) to the chromatography resin TOYOPEARL MX-Trp-650M and computes their binding free energies in a fully automated fashion. By integrating directly with Schrödinger's tools, it identifies the most favorable poses within a prepared binding site and calculates their relative energetics. The resulting scores and energy values provide key insights into how different pepetides bind, facilitating rational design or selection of peptides in chromatography and related applications. Because all steps are encapsulated within KNIME, researchers can run complex simulations through a graphical interface without extensive programming or computational chemistry expertise. 
 
 > [!IMPORTANT]
