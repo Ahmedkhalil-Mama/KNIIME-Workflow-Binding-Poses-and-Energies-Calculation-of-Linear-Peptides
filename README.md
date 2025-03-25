@@ -6,3 +6,12 @@
   <small>Binding pose of Octapeptide-2 to TOYOPEARL MX-Trp-650M.</small>
 </p>
 
+# Table of contents
+- [Aims](#Aims)
+- [Installation](#Installation)
+- [How it works](#How-it-works)
+- [Usage of the Workflow](#Usage-of-SURFMAP)
+- [Contacts](#Contacts)
+- [Licence](#Licence)
+- [How to cite SURFMAP](#How-to-cite-SURFMAP)
+- [References](#References)
