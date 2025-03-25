@@ -1,7 +1,7 @@
 # KNIIME Workflow: Binding Poses and Energies Calculation of Linear Peptides
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5c8fc319-423b-461e-9fae-daf64e3deb6c" alt="workflow image" />
+  <img src="https://github.com/user-attachments/assets/5c8fc319-423b-461e-9fae-daf64e3deb6c" alt="workflow image" width="400" height="auto" />
   <br />
   <small>Binding pose of Octapeptide-2 to TOYOPEARL MX-Trp-650M.</small>
 </p>
@@ -40,7 +40,7 @@ In order to run this KNIME workflow the following software are needed:
 [Go to the top](#Table-of-contents)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dd35cffb-0201-48c9-a32b-c0d22ddeaae0" alt="workflow image" width="400" height="auto"/>
+  <img src="https://github.com/user-attachments/assets/dd35cffb-0201-48c9-a32b-c0d22ddeaae0" alt="workflow image" width="500" height="auto"/>
   <br />
   <small>Simplified overview of the KNIME workflow.</small>
 </p>
