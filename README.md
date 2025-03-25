@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5c8fc319-423b-461e-9fae-daf64e3deb6c" alt="workflow image" width="400" height="auto" />
   <br />
-  <small>Binding pose of Octapeptide-2 to TOYOPEARL MX-Trp-650M.</small>
+  <small>Binding pose of Octapeptide-2 to TOYOPEARL MX-Trp-650M</small>
 </p>
 
 # Table of contents
@@ -38,10 +38,10 @@ In order to run this KNIME workflow the following software are needed:
 
 # How it works 
 [Go to the top](#Table-of-contents)
-
+### Prediction of binding poses and energies: inputs/outputs
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dd35cffb-0201-48c9-a32b-c0d22ddeaae0" alt="workflow image" width="500" height="auto"/>
+  <img src=https://github.com/user-attachments/assets/02efa562-1d45-4eb0-b54c-f182ae0aeade alt="workflow image" width="500" height="auto"/>
   <br />
-  <small>Simplified overview of the KNIME workflow.</small>
+  <small>Simplified overview of the KNIME workflow</small>
 </p>
 
