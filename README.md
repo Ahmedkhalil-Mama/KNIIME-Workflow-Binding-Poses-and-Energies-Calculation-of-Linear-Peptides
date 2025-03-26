@@ -45,3 +45,7 @@ In order to run this KNIME workflow the following software are needed:
   <small>Simplified overview of the KNIME workflow</small>
 </p>
 
+In order to run this workflow, three different input files are required:
+-  A SMILES-String (.smi), which contains the different structures of the target molecules
+-  A Docking Grid of Adsorbent (.sbc or .maegz). Both file types can be generated using the Receptor Grid Generation tool on Maestro Schrödinger.
+-  
