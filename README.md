@@ -56,3 +56,9 @@ An example of a SMILES-String: C[C@H]([C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](
 -  Input parameters for the workflow as an Excel sheet (.xlsx)
 
 Examples of the input files are provided in the XX
+
+The Output files consist in:
+- A Maestro Project File (.prj), which containts the different binding poses of the target molecules.
+- Excel sheets (.xlsx), which containt the different binding energies of the target molecules.
+
+Examples of the stated output files can be found under XX
