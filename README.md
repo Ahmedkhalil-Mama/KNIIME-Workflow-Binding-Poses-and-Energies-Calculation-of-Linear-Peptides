@@ -10,7 +10,6 @@
 - [Aims](#Aims)
 - [Installation](#Installation)
 - [How it works](#How-it-works)
-- [Usage of the Workflow](#Usage-of-SURFMAP)
 - [Contacts](#Contacts)
 - [Licence](#Licence)
 - [References](#References)
@@ -39,6 +38,8 @@ In addition to this repository, you can find the KNIME workflow on the KNIME Hub
 
 # How it works 
 [Go to the top](#Table-of-contents)
+
+This section provides an example to help new users execute this KNIME workflow. First, the figure below illustrates a simplified overview of the steps involved.
 ### Prediction of binding poses and energies: inputs/outputs
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3bb05ab7-b72b-4a4c-b1d0-4e55ff5392de" alt="workflow image" width="500" height="auto"/>
