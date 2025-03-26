@@ -33,6 +33,8 @@ In order to run this KNIME workflow the following software are needed:
 - Schrödinger 2023-2 (or newer version)
 - KNIME 4.7.1 (or newer version)
 
+In addition to this repository, you can find the KNIME workflow on the KNIME Hub at this link: https://hub.knime.com/ballweti/spaces/Public/Binding%20Poses%20and%20Energies%20Calculation~bPcNwd0wgw5zvWH3/current-state. Importing the workflow from the Hub into KNIME is straightforward—simply drag and drop it into the software to streamline the upload process.
+
 > [!IMPORTANT]
 >  To reproduce the results exactly as stated in [Ballweg et al.](https://www.sciencedirect.com/science/article/pii/S0021967324004631), the same versions of KNIME (4.7.1) and Schrödinger (2023-2) must be used.
 
@@ -45,7 +47,7 @@ In order to run this KNIME workflow the following software are needed:
   <small>Simplified overview of the KNIME workflow</small>
 </p>
 
-In order to run this workflow, three different input files are required:
--  A SMILES-String (.smi), which contains the different structures of the target molecules
+To run this workflow, three different input files are required:
+-  A SMILES-String file(.smi), which contains the different structures of the target molecules
 -  A Docking Grid of Adsorbent (.sbc or .maegz). Both file types can be generated using the Receptor Grid Generation tool on Maestro Schrödinger.
 -  
