@@ -64,7 +64,7 @@ Examples of the stated output files can be found under XX
 
 # Contacts
 If you have any question regarding this KNIME workflow, you can contact us:
--  @ahmed-khalil.mama@kit.edu
--  @matthias.franzreb@kit.edu
+-  ahmed-khalil.mama@kit.edu
+-  matthias.franzreb@kit.edu
 
 
