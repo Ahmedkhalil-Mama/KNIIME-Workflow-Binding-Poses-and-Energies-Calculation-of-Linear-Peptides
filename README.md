@@ -42,7 +42,7 @@ In addition to this repository, you can find the KNIME workflow on the KNIME Hub
 [Go to the top](#Table-of-contents)
 ### Prediction of binding poses and energies: inputs/outputs
 <p align="center">
-  <img src=https://github.com/user-attachments/assets/02efa562-1d45-4eb0-b54c-f182ae0aeade alt="workflow image" width="500" height="auto"/>
+  <img src="https://github.com/user-attachments/assets/3bb05ab7-b72b-4a4c-b1d0-4e55ff5392de" alt="workflow image" width="500" height="auto"/>
   <br />
   <small>Simplified overview of the KNIME workflow</small>
 </p>
