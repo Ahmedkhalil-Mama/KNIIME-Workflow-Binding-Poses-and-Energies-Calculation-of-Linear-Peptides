@@ -52,5 +52,6 @@ To run this workflow, three different input files are required:
   ```
 An example of a SMILES-String: C[C@H]([C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CCC(=O)N)C(=O)O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)N)O Octapeptide_2
 ```
--  A Docking Grid of Adsorbent (.sbc or .maegz). Both file types can be generated using the Receptor Grid Generation tool on Maestro Schrödinger.
+-  A Docking Grid of Adsorbent (.sbc or .maegz). Both file types can be generated using the _Receptor Grid Generation tool_ on Maestro Schrödinger.
 -  Input parameters for the workflow as an Excel sheet (.xlsx)
+Examples of the input files are provided in the XX
