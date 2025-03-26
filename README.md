@@ -13,7 +13,6 @@
 - [Usage of the Workflow](#Usage-of-SURFMAP)
 - [Contacts](#Contacts)
 - [Licence](#Licence)
-- [How to cite SURFMAP](#How-to-cite-SURFMAP)
 - [References](#References)
 
 # Aims
@@ -62,3 +61,10 @@ The Output files consist in:
 - Excel sheets (.xlsx), which containt the different binding energies of the target molecules.
 
 Examples of the stated output files can be found under XX
+
+# Contacts
+If you have any question regarding this KNIME workflow, you can contact us:
+-  @ahmed-khalil.mama@kit.edu
+-  @matthias.franzreb@kit.edu
+
+
