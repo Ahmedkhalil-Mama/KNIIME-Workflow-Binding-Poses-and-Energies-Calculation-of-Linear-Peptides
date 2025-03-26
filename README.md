@@ -48,6 +48,9 @@ In addition to this repository, you can find the KNIME workflow on the KNIME Hub
 </p>
 
 To run this workflow, three different input files are required:
--  A SMILES-String file(.smi), which contains the different structures of the target molecules
+-  A SMILES-String file (.smi), which contains the different structures of the target molecules.
+  ```
+An example of a SMILES-String: C[C@H]([C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CCC(=O)N)C(=O)O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)N)O Octapeptide_2
+```
 -  A Docking Grid of Adsorbent (.sbc or .maegz). Both file types can be generated using the Receptor Grid Generation tool on Maestro Schrödinger.
 -  
