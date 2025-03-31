@@ -55,13 +55,13 @@ An example of a SMILES-String: C[C@H]([C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](
 -  A Docking Grid of Adsorbent (.sbc or .maegz). Both file types can be generated using the _Receptor Grid Generation tool_ on Maestro Schrödinger.
 -  Input parameters for the workflow as an Excel sheet (.xlsx)
 
-Examples of the input files are provided in the [input](☻Example/Input)
+Examples of the input files are provided in the [input](KNIME-Workflow-Binding-Poses-and-Energies-Calculation-of-Linear-Peptides/Example/Input)
 
 The Output files consist in:
 - A Maestro Project File (.prj), which containts the different binding poses of the target molecules.
 - Excel sheets (.xlsx), which containt the different binding energies of the target molecules.
 
-Examples of the stated output files can be found under [output](☻Example/Output)
+Examples of the stated output files can be found under [output](KNIME-Workflow-Binding-Poses-and-Energies-Calculation-of-Linear-Peptides/Example/Output)
 
 # Contacts
 If you have any question regarding this KNIME workflow, you can contact us:
