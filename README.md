@@ -55,7 +55,7 @@ An example of a SMILES-String: C[C@H]([C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](
 -  A Docking Grid of Adsorbent (.sbc or .maegz). Both file types can be generated using the _Receptor Grid Generation tool_ on Maestro Schrödinger.
 -  Input parameters for the workflow as an Excel sheet (.xlsx)
 
-Examples of the input files are provided in the [input](Example/Input)
+Examples of the input files are provided in [input](Example/Input)
 
 The Output files consist in:
 - A Maestro Project File (.prj), which containts the different binding poses of the target molecules.
