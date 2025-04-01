@@ -34,7 +34,7 @@ In order to run this KNIME workflow the following software are needed:
 In addition to this repository, you can find the KNIME workflow on the KNIME Hub at this link: https://hub.knime.com/ballweti/spaces/Public/Binding%20Poses%20and%20Energies%20Calculation~bPcNwd0wgw5zvWH3/current-state. Importing the workflow from the Hub into KNIME is straightforward—simply drag and drop it into the software to streamline the upload process.
 
 > [!IMPORTANT]
->  To reproduce the results exactly as stated in [Ballweg et al.](https://www.sciencedirect.com/science/article/pii/S0021967324004631), the same versions of KNIME (4.7.1) and Schrödinger (2023-2) must be used.
+>  The original results in [Ballweg et al.](https://www.sciencedirect.com/science/article/pii/S0021967324004631) were obtained using the software versions: KNIME (4.7.1) and Schrödinger (2023-2).
 
 # How it works 
 [Go to the top](#Table-of-contents)
