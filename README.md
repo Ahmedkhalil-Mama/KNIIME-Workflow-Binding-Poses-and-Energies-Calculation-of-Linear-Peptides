@@ -64,8 +64,10 @@ The Output files consist in:
 Examples of the stated output files can be found under [output](Example/Output)
 
 *: The substructure file defines the locations of atoms at the outer edges of the resin model. These atoms are "frozen" during the minimization step to preserve the structural integrity of the resin while allowing the rest of the system to relax. The substructure file can be generated manually within the MacroModel Minimization Tool of the Schrödinger’s Maestro software.  An example of the SBC file structure is shown below:
+
 “FXAT    1000      0      0      0    -1.0000     0.0000     0.0000     0.0000
 FXAT   10001      0      0      0    -1.0000     0.0000     0.0000     0.0000”
+
 Each line in the file begins with the command FXAT, which directs MacroModel to freeze the designated atom during the minimization process. The second column specifies the atom identifier, and a value of -1.0000 in column six indicates that the atom is fully restrained, ensuring it remains immobile throughout the minimization. 
 
 # Contacts
