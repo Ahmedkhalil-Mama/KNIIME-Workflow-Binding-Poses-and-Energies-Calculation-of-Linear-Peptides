@@ -52,7 +52,7 @@ To run this workflow, three different input files are required:
   ```
 An example of a SMILES-String: C[C@H]([C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CCC(=O)N)C(=O)O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)N)O Octapeptide_2
 ```
--  A Docking Grid of Adsorbent (.sbc or .maegz). Both file types can be generated using the _Receptor Grid Generation tool_ on Maestro Schrödinger.
+-  A Docking Grid of Adsorbent (.sbc* or .maegz). Both file types can be generated using the _Receptor Grid Generation tool_ on Maestro Schrödinger.
 -  Input parameters for the workflow as an Excel sheet (.xlsx)
 
 Examples of the input files are provided in [input](Example/Input)
@@ -62,6 +62,10 @@ The Output files consist in:
 - Excel sheets (.xlsx), which containt the different binding energies of the target molecules.
 
 Examples of the stated output files can be found under [output](Example/Output)
+*: The substructure file defines the locations of atoms at the outer edges of the resin model. These atoms are "frozen" during the minimization step to preserve the structural integrity of the resin while allowing the rest of the system to relax. The substructure file can be generated manually within the MacroModel Minimization Tool of the Schrödinger’s Maestro software.  An example of the SBC file structure is shown below:
+“FXAT    1000      0      0      0    -1.0000     0.0000     0.0000     0.0000
+FXAT   10001      0      0      0    -1.0000     0.0000     0.0000     0.0000”
+Each line in the file begins with the command FXAT, which directs MacroModel to freeze the designated atom during the minimization process. The second column specifies the atom identifier, and a value of -1.0000 in column six indicates that the atom is fully restrained, ensuring it remains immobile throughout the minimization. 
 
 # Contacts
 If you have any question regarding this KNIME workflow, you can contact us:
